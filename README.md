@@ -7,6 +7,9 @@
 -     My Twitter Account: @JEdwardlui
 -     My Kaggle Account: @JEdward225
 -     My huggingface Account: https://huggingface.co/JEdward
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jedward225)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 jedward225/jedward225 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
